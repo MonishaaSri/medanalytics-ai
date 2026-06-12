@@ -1,8 +1,4 @@
-Here's the updated `README.md` with API setup change:
 
-Open your `README.md` → replace the API Key Setup section with this:
-
-```markdown
 ## 🔑 API Key Setup
 
 1. Create a `.env` file in the main project folder
